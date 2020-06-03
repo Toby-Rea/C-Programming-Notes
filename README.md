@@ -11,6 +11,8 @@ Notes on the C programming language focused on the GCC.
 
 ## Escape Sequences
 
+Escape sequences are sequences of characters which don't represent themselves when used inside a string literal / character, typically used to provide literal representations of non-printing characters and characters that would otherwise have a special meaning, e.g. double quotation marks (").
+
 | Escape Sequence | Represents        |
 | :-------------: | :---------------- |
 |       \0        | Null              |
