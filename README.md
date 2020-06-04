@@ -5,6 +5,7 @@
 - [Preface](#preface)
 - [Fundamentals](#fundamentals)
 - [Code Commenting](#code-commenting)
+- [Variables](#variables)
 - [Escape Sequences](#escape-sequences)
 - [Sources](#sources)
 
@@ -53,6 +54,38 @@ Anything preceded by `//` up to the end of that line is considered a comment.
 
 Anything preceded by `/*` and succeeded by `*/` is considered a comment.
 
+## Variables
+
+A variable is a named location in memory where we can manipulate data. Variables in C have their own specific type, which determines the size and layout of the variable's memory, and determines the operations which can be performed on the data.
+
+| Basic Variable Type | Description                          |
+| :-----------------: | :----------------------------------- |
+|         int         | Integer.                             |
+|        char         | Character represented as an integer. |
+|        float        | Single-Precision floating point.     |
+|       double        | Double-Precision floating point.     |
+|        void         | Type absence.                        |
+
+Variable declarations can be made as follows: `<data_type> <variable_name>;`
+
+For example:
+
+```c
+int cookies;
+char letter;
+float temperature;
+```
+
+Variable initializations can be made as follows: `<data_typobye> <variable-name> = <value>;`
+
+For example:
+
+```c
+int cookies = 12;
+char letter = 'z';
+float temperature = 27.2;
+```
+
 ## Escape Sequences
 
 Escape sequences are sequences of characters which don't represent themselves when used inside a string literal / character, typically used to provide literal representations of non-printing characters and characters that would otherwise have a special meaning, e.g. double quotation marks (").
@@ -79,3 +112,4 @@ Escape sequences are sequences of characters which don't represent themselves wh
 - <https://beginnersbook.com/2017/09/c-hello-world-program> [Accessed 04-06-2020]
 - <https://www.guru99.com/c-comments.html> [Accessed 04-06-2020]
 - <https://www.geeksforgeeks.org/comments-in-c-c> [Accessed 04-06-2020]
+- <https://www.tutorialspoint.com/cprogramming/c_variables.htm> [Accessed 05-06-2020]
