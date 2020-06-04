@@ -31,6 +31,13 @@ int main() {
 
 ```Hello World!```
 
+**Explanation**
+
+- `#include <stdio.h>` is a preprocessor command which tells the compiler to include the `stdio.h` (standard input and output) library file in the program. This file contains the definitions of common Input/Output functions, such as `printf`.
+- `int main()` is a function called `main()` with an integer return type. Every C program must have a `main()` function because the execution of the program begins there.
+- `printf()` is a library function which prints formatted output to the terminal, and in this case, `printf("Hello World!\n")` will print `Hello World!`.
+- `return 0` is known as the "Exit status" of the program. **0** reports successful execution, and terminates the execution. Other return values such as **1** could suggest errors.
+
 ## Escape Sequences
 
 Escape sequences are sequences of characters which don't represent themselves when used inside a string literal / character, typically used to provide literal representations of non-printing characters and characters that would otherwise have a special meaning, e.g. double quotation marks (").
