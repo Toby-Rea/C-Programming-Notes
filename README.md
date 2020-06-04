@@ -1,13 +1,12 @@
-# C Programming Notes
+<center><h1> C Programming Notes</h1></center>
 
 ## Table of contents <!-- omit in toc -->
 
-- [C Programming Notes](#c-programming-notes)
-  - [Preface](#preface)
-  - [Fundamentals](#fundamentals)
-  - [Code Commenting](#code-commenting)
-  - [Escape Sequences](#escape-sequences)
-  - [Sources](#sources)
+- [Preface](#preface)
+- [Fundamentals](#fundamentals)
+- [Code Commenting](#code-commenting)
+- [Escape Sequences](#escape-sequences)
+- [Sources](#sources)
 
 ## Preface
 
