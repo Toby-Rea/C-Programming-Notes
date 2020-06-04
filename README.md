@@ -66,9 +66,11 @@ A variable is a named location in memory where we can manipulate data. Variables
 |       double        | Double-Precision floating point.     |
 |        void         | Type absence.                        |
 
-Variable declarations can be made as follows: `<data_type> <variable_name>;`
+### Variable Declarations <!-- omit in toc -->
 
-For example:
+**Syntax:** `<data_type> <variable_name>;`
+
+**Examples:**
 
 ```c
 int cookies;
@@ -76,9 +78,11 @@ char letter;
 float temperature;
 ```
 
-Variable initializations can be made as follows: `<data_typobye> <variable-name> = <value>;`
+### Variable Initializations <!-- omit in toc -->
 
-For example:
+**Syntax:** `<data_type> <variable-name> = <value>;`
+
+**Examples:**
 
 ```c
 int cookies = 12;
