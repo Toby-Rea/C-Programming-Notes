@@ -1,4 +1,4 @@
-<center><h1> C Programming Notes</h1></center>
+# C Programming Notes <!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 
