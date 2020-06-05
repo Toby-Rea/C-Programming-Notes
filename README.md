@@ -117,3 +117,4 @@ Escape sequences are sequences of characters which don't represent themselves wh
 - <https://www.guru99.com/c-comments.html> [Accessed 04-06-2020]
 - <https://www.geeksforgeeks.org/comments-in-c-c> [Accessed 04-06-2020]
 - <https://www.tutorialspoint.com/cprogramming/c_variables.htm> [Accessed 05-06-2020]
+- <https://www.studytonight.com/c/variables-in-c.php> [Accessed 05-06-2020]
