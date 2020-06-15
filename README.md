@@ -5,6 +5,7 @@
 - [C Programming Notes](#c-programming-notes)
   - [Preface](#preface)
   - [Fundamentals](#fundamentals)
+  - [Ternary Operator](#ternary-operator)
   - [Escape Sequences](#escape-sequences)
   - [Sources](#sources)
 
@@ -37,6 +38,22 @@ int main() {
 - `int main()` is a function called `main()` with an integer return type. Every C program must have a `main()` function because the execution of the program begins there.
 - `printf()` is a library function which prints formatted output to the terminal, and in this case, `printf("Hello World!\n")` will print `Hello World!`.
 - `return 0` is known as the "Exit status" of the program. **0** reports successful execution, and terminates the execution. Other return values such as **1** could suggest errors.
+
+## Ternary Operator
+
+Used in place of longer if / else statements.
+
+`condition ? value_if_true : value_if_false`
+
+**Example:**
+
+```c
+int c = (a < b) ? a : b;
+```
+
+**Explanation**
+
+If a is less than b, the value of c is set to the value of a, otherwise, the value of c is set to b.
 
 ## Escape Sequences
 
