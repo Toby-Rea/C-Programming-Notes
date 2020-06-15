@@ -81,7 +81,7 @@ float temperature;
 
 ### Variable Initializations <!-- omit in toc -->
 
-**Syntax:** `<data_type> <variable-name> = <value>;`
+**Syntax:** `<data_type> <variable_name> = <value>;`
 
 **Examples:**
 
