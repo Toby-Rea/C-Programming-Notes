@@ -6,6 +6,7 @@
 - [Fundamentals](#fundamentals)
 - [Code Commenting](#code-commenting)
 - [Variables](#variables)
+- [Ternary Operator](#ternary-operator)
 - [Escape Sequences](#escape-sequences)
 - [Sources](#sources)
 
@@ -89,6 +90,22 @@ int cookies = 12;
 char letter = 'z';
 float temperature = 27.2;
 ```
+
+## Ternary Operator
+
+Used in place of longer if / else statements.
+
+`condition ? value_if_true : value_if_false`
+
+**Example:**
+
+```c
+int c = (a < b) ? a : b;
+```
+
+**Explanation**
+
+If a is less than b, the value of c is set to the value of a, otherwise, the value of c is set to b.
 
 ## Escape Sequences
 
