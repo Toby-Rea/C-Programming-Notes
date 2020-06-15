@@ -135,3 +135,4 @@ Escape sequences are sequences of characters which don't represent themselves wh
 - <https://www.geeksforgeeks.org/comments-in-c-c> [Accessed 04-06-2020]
 - <https://www.tutorialspoint.com/cprogramming/c_variables.htm> [Accessed 05-06-2020]
 - <https://www.studytonight.com/c/variables-in-c.php> [Accessed 05-06-2020]
+- <https://www.freecodecamp.org/news/c-ternary-operator> [Accessed 15-06-2020]
